@@ -2,12 +2,9 @@
 fun main() {
 
  println("Hola Mundo")
-    println("Primer Ejercicio Kotlin")
+    println("Juan David Bustos Castro")
+    println("Jugar Futbol")
 
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
-    println("Primer Ejercicio Kotlin")
 
 
 
